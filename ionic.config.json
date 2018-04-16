@@ -1,0 +1,8 @@
+{
+  "name": "mitabs01",
+  "app_id": "0ca669cc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
